@@ -7,7 +7,7 @@ configmanager.use: /configmanager コマンドを使用する権利です。
 
 
 # Usage
-・/configmanager <ファイルパス> <Configパス> <パラメータ>
+/configmanager <ファイルパス> <Configパス> <パラメータ>
 
 
 # Download
