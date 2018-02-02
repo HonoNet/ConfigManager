@@ -28,13 +28,13 @@ public class Main extends JavaPlugin implements Listener {
 
 	@Override
 	public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
-		if (!sender.hasPermission("configmanager.use")) {
+		if(!sender.hasPermission("configmanager.use")) {
 			sender.sendMessage(this.getPrefix() + "§cYou do not have access to this command");
 			sender.sendMessage(this.getPrefix() + "§cGitHub: §nhttps://github.com/HonoNet/ConfigManager");
 			return true;
 		}
 
-		if (args.length > 2) {
+		if(args.length > 2) {
 			String path = args[0];
 			String param = "";
 			for (int i = 2; i < args.length; i++) {
