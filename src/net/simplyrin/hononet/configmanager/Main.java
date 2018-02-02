@@ -62,7 +62,7 @@ public class Main extends JavaPlugin implements Listener {
 	}
 
 	public String getPrefix() {
-		return "§7[§c§7] §r";
+		return "§7[§cConfigManager§7] §r";
 	}
 
 }
