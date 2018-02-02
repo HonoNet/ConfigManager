@@ -11,4 +11,4 @@ configmanager.use: /configmanager コマンドを使用する権利です。
 
 
 # Download
-ダウンロード: <a href="https://goo.gl/68oGKq">v1.0<a/>
+ダウンロード: <a href="https://goo.gl/4V99RL">v1.1<a/>
