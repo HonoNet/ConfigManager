@@ -10,8 +10,14 @@ import org.bukkit.plugin.java.JavaPlugin;
 import net.md_5.bungee.config.Configuration;
 import net.simplyrin.config.Config;
 
+/**
+ * Created by SimplyRin on 2018/02/02.
+ */
 public class Main extends JavaPlugin implements Listener {
 
+	/**
+	 * このプラグインは 2017/10/29 に作成されたプラグインを元に再構成されたものです。
+	 */
 	private static Main plugin;
 
 	@Override
