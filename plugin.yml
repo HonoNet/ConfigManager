@@ -1,8 +1,0 @@
-main: net.simplyrin.hononet.configmanager.Main
-name: ConfigManager
-version: 1.0
-authors: [SimplyRin]
-
-commands:
-  configmanager:
-    usage: /configmanager <file> <path> <parameter>
